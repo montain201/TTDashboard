@@ -9,7 +9,7 @@ Start your Development with an Innovative Admin Template for MUI and React. If y
 **Fully Coded Elements**
 Soft UI Dashboard React is built with over 70 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using MUI styled api and sx prop. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Premium MUI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-View [all components here](https://www.creative-tim.com/learning-lab/react/alerts/soft-ui-dashboard/).
+View [all components here](https://ticket.sanpa.ir).
 
 **Documentation built by Developers**
 
@@ -25,7 +25,7 @@ View [example pages here](https://ticket.sanpad.ir/dashboard).
 
 **HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/creativetimofficial/soft-ui-dashboard-react)
+- View [Github Repository](https://github.com/montain201/TTDashboard)
 - Check [FAQ Page](https://sanpad.ir)
 
 #### Special thanks
@@ -33,7 +33,7 @@ View [example pages here](https://ticket.sanpad.ir/dashboard).
 During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
 
 - [MUI](https://mui.com/) - The React UI library for faster and easier web development.
-- [React Countup](https://github.com/glennreyes/react-countup) - A lightweight React component that can be used to quickly create animations that display numerical data in a more interesting way.
+- [React Countup](https://github.com/montain201/TTDashboard) - A lightweight React component that can be used to quickly create animations that display numerical data in a more interesting way.
 - [React ChartJS 2](http://reactchartjs.github.io/react-chartjs-2/#/) - Simple yet flexible React charting for designers & developers.
 - [ChromaJS](https://gka.github.io/chroma.js/) - A small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.
 - [UUID](https://github.com/uuidjs/uuid) - JavaScript library for generating random id numbers.
@@ -56,7 +56,7 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard-pro-react?ref=readme-sudr)
+[<img src="hhttps://github.com/montain201/TTDashboard/blob/master/src/assets/images/sanpad-dashboard.png?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/soft-ui-dashboard-pro-react?ref=readme-sudr)
 
 | React |
 | ----- |
@@ -77,7 +77,7 @@ Let us know your thoughts below. And good luck with development!
 
 Quick start options:
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/soft-ui-dashboard-react?ref=readme-sudr).
+- Buy from [Sanpad](https://www.sanpad.ir).
 
 ## Terminal Commands
 
@@ -86,74 +86,9 @@ Quick start options:
 
 ## Documentation
 
-The documentation for the Soft UI Dashboard is hosted at our [website](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard/?ref=readme-sudr).
+The documentation for the Soft UI Dashboard is hosted at our [website](https://www.sanpad.ir).
 
-### What's included
 
-Within the download you'll find the following directories and files:
-
-```
-soft-ui-dashboard-react
-    ├── public
-    │   ├── apple-icon.png
-    │   ├── favicon.png
-    │   ├── index.html
-    │   ├── manifest.json
-    │   └── robots.txt
-    ├── src
-    │   ├── assets
-    │   │   ├── images
-    │   │   └── theme
-    │   │       ├── base
-    │   │       ├── components
-    │   │       ├── functions
-    │   │       ├── index.js
-    │   │       └── theme-rtl.js
-    │   ├── components
-    │   │   ├── SuiAlert
-    │   │   ├── SuiAvatar
-    │   │   ├── SuiBadge
-    │   │   ├── SuiBox
-    │   │   ├── SuiButton
-    │   │   ├── SuiInput
-    │   │   ├── SuiPagination
-    │   │   ├── SuiProgress
-    │   │   └── SuiTypography
-    │   ├── context
-    │   ├── examples
-    │   │   ├── Breadcrumbs
-    │   │   ├── Cards
-    │   │   ├── Charts
-    │   │   ├── Configurator
-    │   │   ├── Footer
-    │   │   ├── Icons
-    │   │   ├── Items
-    │   │   ├── LayoutContainers
-    │   │   ├── Lists
-    │   │   ├── Navbars
-    │   │   ├── Sidenav
-    │   │   ├── Tables
-    │   │   └── Timeline
-    │   ├── layouts
-    │   │   ├── authentication
-    │   │   ├── billing
-    │   │   ├── dashboard
-    │   │   ├── profile
-    │   │   ├── rtl
-    │   │   ├── tables
-    │   │   └── virtual-reality
-    │   ├── App.js
-    │   ├── index.js
-    │   └── routes.js
-    ├── .eslintrc.json
-    ├── .prettierrc.json
-    ├── CHANGELOG.md
-    ├── ISSUE_TEMPLATE.md
-    ├── jsconfig.json
-    ├── LICENSE.md
-    ├── package.json
-    └── README.md
-```
 
 ## Browser Support
 
