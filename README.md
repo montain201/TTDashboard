@@ -71,7 +71,7 @@ Let us know your thoughts below. And good luck with development!
 - [Sign In](https://demos.creative-tim.com/soft-ui-dashboard-react/#/authentication/sign-in?ref=readme-sudr)
 - [Sign Up](https://demos.creative-tim.com/soft-ui-dashboard-react/#/authentication/sign-up?ref=readme-sudr)
 
-[View More](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?ref=readme-sudr).
+[View More](https://ticket.sanpad.ir/dashboard).
 
 ## Quick start
 
@@ -163,7 +163,7 @@ At present, we officially aim to support the last two versions of the following 
 
 ## Resources
 
-- [Live Preview](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard?ref=readme-sudr)
+- [Live Preview](https://ticket.sanpad.ir/dashboard)
 - [Buy Page](https://www.creative-tim.com/product/soft-ui-dashboard-react?ref=readme-sudr)
 - Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard/?ref=readme-sudr)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-sudr)
