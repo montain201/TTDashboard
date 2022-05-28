@@ -1,6 +1,6 @@
 # [Sanpad Trouble Ticket React](http://ticket.sanpad.ir) [![Tweet](https://github.com/montain201/TTDashboard/blob/master/src/assets/images/sanpad-dashboard.png)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/soft-ui-dashboard-react&text=Check%20Soft%20UI%20Dashboard%20react%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#softdesign%20#react%20https://www.creative-tim.com/product/soft-ui-dashboard-react)
 
-![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard-react.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-react.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-react/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](hhttps://github.com/montain201/TTDashboard/blob/master/src/assets/images/sanpad-dashboard.png)](https://github.com/creativetimofficial/soft-ui-dashboard-react/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://github.com/montain201/TTDashboard/blob/master/src/assets/images/sanpad-dashboard.png)](https://github.com/creativetimofficial/soft-ui-dashboard-react/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/500/original/soft-ui-dashboard-material-ui.jpg)
 
@@ -21,12 +21,12 @@ You can read more about the [documentation here](https://www.creative-tim.com/le
 
 If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. Every page is spaced well, with attractive layouts and pleasing shapes. Soft UI Dashboard React has everything you need to quickly set up an amazing project.
 
-View [example pages here](https://demos.creative-tim.com/soft-ui-dashboard-react/#/dashboard).
+View [example pages here](https://ticket.sanpad.ir/dashboard).
 
 **HELPFUL LINKS**
 
 - View [Github Repository](https://github.com/creativetimofficial/soft-ui-dashboard-react)
-- Check [FAQ Page](https://www.creative-tim.com/faq)
+- Check [FAQ Page](https://sanpad.ir)
 
 #### Special thanks
 
@@ -164,47 +164,47 @@ At present, we officially aim to support the last two versions of the following 
 ## Resources
 
 - [Live Preview](https://ticket.sanpad.ir/dashboard)
-- [Buy Page](https://www.creative-tim.com/product/soft-ui-dashboard-react?ref=readme-sudr)
-- Documentation is [here](https://www.creative-tim.com/learning-lab/react/overview/soft-ui-dashboard/?ref=readme-sudr)
-- [License Agreement](https://www.creative-tim.com/license?ref=readme-sudr)
-- [Support](https://www.creative-tim.com/contact-us?ref=readme-sudr)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/soft-ui-dashboard-react/issues)
+- [Buy Page](https://www.sanpad.ir)
+- Documentation is [here](https://www.sanpad.ir)
+- [License Agreement](https://www.sanpad.ir)
+- [Support](https://www.sanpad.ir)
+- Issues: [Github Issues Page](https://www.sanpad.ir)
 
 ## Reporting Issues
 
 We use GitHub Issues as the official bug tracker for the Soft UI Dashboard React. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Soft UI Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-dashboard-react?ref=readme-sudr).
+1. Make sure that you are using the latest version of the Soft UI Dashboard React. Check the CHANGELOG from your dashboard on our [website](https://www.sanpad.ir).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
 ## Technical Support or Questions
 
-If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-sudr) instead of opening an issue.
+If you have questions or need help integrating the product please [contact us](info@sanpad.ir) instead of opening an issue.
 
 ## Licensing
 
-- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudr)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudr)
+- Copyright 2021 [Creative Tim](https://www.sanpad.ir)
+- Creative Tim [license](https://www.sanpad.ir)
 
 ## Useful Links
 
-- [More products](https://www.creative-tim.com/templates?ref=readme-sudr) from Creative Tim
+- [More products](https://www.sanpad.ir) from Creative Tim
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+- [Tutorials](https://www.sanpad.ir)
 
-- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-sudr) from Creative Tim
+- [Freebies](https://www.sanpad.ir) from Creative Tim
 
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-sudr) (earn money)
+- [Affiliate Program](https://www.sanpad.ir) (earn money)
 
 ##### Social Media
 
-Twitter: <https://twitter.com/CreativeTim>
+Twitter: <https://www.sanpad.ir>
 
-Facebook: <https://www.facebook.com/CreativeTim>
+Facebook: <https://www.sanpad.ir>
 
-Dribbble: <https://dribbble.com/creativetim>
+Dribbble: <https://www.sanpad.ir>
 
-Google+: <https://plus.google.com/+CreativetimPage>
+Google+: <https://www.sanpad.ir>
 
-Instagram: <https://instagram.com/creativetimofficial>
+Instagram: <https://www.sanpad.ir>
